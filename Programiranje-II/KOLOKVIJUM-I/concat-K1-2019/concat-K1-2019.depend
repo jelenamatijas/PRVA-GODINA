@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1712496417 source:d:\programiranje-ii\kolokvijum-i\concat-k1-2019\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+	<string.h>
+

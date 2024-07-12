@@ -1,0 +1,4 @@
+Marko-Markovic Milana-Milic Blokiran 2
+Marko-Markovic Jovana-Jovic Aktivan 1
+Marko-Markovic Janko-Jankovic Aktivan 0
+Jovan-Jovanovic Petar-Petrovic Testiranje 0

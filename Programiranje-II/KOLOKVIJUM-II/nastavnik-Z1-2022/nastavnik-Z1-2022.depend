@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717083969 source:d:\programiranje-ii\kolokvijum-ii\nastavnik-z1-2022\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

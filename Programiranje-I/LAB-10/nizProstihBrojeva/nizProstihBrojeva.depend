@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1703626520 source:c:\users\mm\desktop\programiranje 1\lab-10\nizprostihbrojeva\main.c
+	<stdio.h>
+	<stdlib.h>
+

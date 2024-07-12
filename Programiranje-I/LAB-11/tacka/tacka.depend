@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704748629 source:c:\users\mm\desktop\programiranje 1\lab-11\tacka\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712404838 source:d:\programiranje-ii\kolokvijum-i\invertword-k1-2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

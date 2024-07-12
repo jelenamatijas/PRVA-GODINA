@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712004298 source:d:\programiranje-ii\sortiranje\sortiraj_rijeci_samoglasnici\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

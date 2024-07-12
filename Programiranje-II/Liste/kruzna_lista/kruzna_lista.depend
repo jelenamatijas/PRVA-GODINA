@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1716053715 source:d:\programiranje-ii\liste\kruzna_lista\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

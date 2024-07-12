@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1717235953 source:d:\programiranje-ii\kolokvijum-ii\liste-z1-2020\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

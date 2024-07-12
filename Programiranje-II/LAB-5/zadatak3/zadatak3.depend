@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1711316682 source:c:\users\mm\desktop\programiranje 2\lab-5\zadatak3\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1712390244 source:d:\programiranje-ii\lab-5\zadatak3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1711383282 source:c:\users\mm\desktop\programiranje 2\kolokvijum-i\rezultati_funkcija-k1-2016\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<stdarg.h>
+

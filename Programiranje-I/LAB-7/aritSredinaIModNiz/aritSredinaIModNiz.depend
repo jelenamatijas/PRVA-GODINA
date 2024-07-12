@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1702302317 source:c:\users\mm\desktop\programiranje 1\lab-7\aritsredinaimodniz\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

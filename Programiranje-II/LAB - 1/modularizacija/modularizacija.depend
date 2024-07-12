@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1709491541 source:c:\users\mm\desktop\programiranje 2\lab - 1\modularizacija\main.c
+	"ucitavanje.h"
+	"izracunavanje.h"
+
+1709491065 c:\users\mm\desktop\programiranje 2\lab - 1\modularizacija\ucitavanje.h
+	<stdio.h>
+	<stdlib.h>
+
+1709490908 c:\users\mm\desktop\programiranje 2\lab - 1\modularizacija\izracunavanje.h
+
+1709491065 source:c:\users\mm\desktop\programiranje 2\lab - 1\modularizacija\ucitavanje.c
+	"ucitavanje.h"
+
+1709491065 source:c:\users\mm\desktop\programiranje 2\lab - 1\modularizacija\izracunavanje.c
+	"izracunavanje.h"
+
+1709491065 source:d:\modeli\lab - 1\modularizacija\izracunavanje.c
+	"izracunavanje.h"
+
+1709490908 d:\modeli\lab - 1\modularizacija\izracunavanje.h
+
+1709491541 source:d:\modeli\lab - 1\modularizacija\main.c
+	"ucitavanje.h"
+	"izracunavanje.h"
+
+1709491065 d:\modeli\lab - 1\modularizacija\ucitavanje.h
+	<stdio.h>
+	<stdlib.h>
+
+1709491065 source:d:\modeli\lab - 1\modularizacija\ucitavanje.c
+	"ucitavanje.h"
+

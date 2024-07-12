@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1704805918 source:c:\users\mm\desktop\programiranje 1\k2\trouglovi-2022-zad2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+

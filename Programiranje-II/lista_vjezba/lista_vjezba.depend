@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1713823241 source:d:\programiranje-ii\lista_vjezba\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1712485841 source:d:\programiranje-ii\kolokvijum-i\init-k1-2021\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+

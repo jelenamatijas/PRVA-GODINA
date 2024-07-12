@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711369972 source:c:\users\mm\desktop\programiranje 2\kolokvijum-i\transformacija-k1-2015\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+

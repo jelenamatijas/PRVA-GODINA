@@ -1,0 +1,3 @@
+P12 Programiranje_2 5
+D24 Programski_jezici_2 7
+T35 Arhitektura_racunara 6

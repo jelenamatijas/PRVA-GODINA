@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1711387565 source:c:\users\mm\desktop\programiranje 2\kolokvijum-i\podijeliti_sadrzaj_datoteke-k1-2017\main.c
+	<stdio.h>
+	<stdlib.h>
+	<stdarg.h>
+

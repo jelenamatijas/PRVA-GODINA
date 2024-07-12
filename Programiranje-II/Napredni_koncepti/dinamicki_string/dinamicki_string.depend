@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1710333825 source:c:\users\mm\desktop\programiranje 2\napredni_koncepti\dinamicki_string\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<stdarg.h>
+
