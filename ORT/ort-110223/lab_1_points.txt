@@ -1,0 +1,7 @@
+Task 1: NAND
+Points: 1
+Task 2: OR
+Points: 1
+Task 3: NOR
+Points: 1
+Overall points: 3

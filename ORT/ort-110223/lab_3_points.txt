@@ -1,0 +1,7 @@
+Task 1: 1
+Points: 1
+Task 2: 2
+Points: 1
+Task 3: 3
+Points: 1
+Overall points: 3

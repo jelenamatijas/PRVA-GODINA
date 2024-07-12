@@ -1,0 +1,4 @@
+../hdl/or_gate/or_gate.v
+../hdl/nor_gate/nor_gate.v
+../hdl/and_gate/and_gate.v
+../hdl/nand_gate/nand_gate.v

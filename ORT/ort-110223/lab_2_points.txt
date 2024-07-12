@@ -1,0 +1,7 @@
+Task 1: OR
+Points: 1
+Task 2: NOR
+Points: 1
+Task 3: 
+Points: 1
+Overall points: 3
