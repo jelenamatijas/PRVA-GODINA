@@ -69,7 +69,6 @@ void add(NODE **phead, NODE **ptail, void *data, int (*cmp)(const void *, const 
     if(search(*phead, *ptail, data, cmp)!=NULL)return;
 
     NODE *newNode = (NODE*)calloc(sizeof(NODE), 1);
-    newNode->data = calloc(sizeof(void),1);
     newNode->data = data;
 
     if(*phead == NULL)*phead = *ptail = newNode;
@@ -152,7 +151,9 @@ int main()
     void *days[] = {"ponedjeljak", "utorak", "srijeda", "cetvrtak", "petak", "subota"};
     for (int i = 0; i < 6; i++)
     {
-        add(&head, &tail, days[i], cmp);
+        void *str = calloc(sizeof(char), strlen(days[i])+1); ///alocirati memoriju tako da odgovara tipu zadanog zadatka
+        strcpy(str, days[i]);
+        add(&head, &tail, str, cmp); /// u add funkciju se prosljedjuje pokazivac tipa void na prethodno alocirani podatak
     }
     write(head, write_one);
     delete_node(&head, &tail, days[5], cmp);
